@@ -1,14 +1,26 @@
 # Hogwards-school-management
 
+This is a **school management application** developed using **java GUI in eclipse**.
+
+**Features:**
+1. **Admin Login:**  
+   a. Student Data Management   
+2. **Student Login:**     
+   a. Generating ID Card  
+   b. Printing ID Card  
+   c. Fee Payment Details  
+   d. Payment Gateway options  
 
 
 ## 1. Steps for Installation 
 
+    **For Windows follow the below link for installation**
+    https://www.guru99.com/install-eclipse-java.html
 
-## 2. Steps for Executing 
+## 2. Login Details
 
-### Login Details
-
+      1. UserName: admin Password: admin
+      2. UserName: student Password: student
 
 ## 3. ScreenShots of Application
 
