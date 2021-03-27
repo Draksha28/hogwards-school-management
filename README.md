@@ -14,7 +14,7 @@ This is a **school management application** developed using **java GUI in eclips
 
 ## 1. Steps for Installation 
 
-    **For Windows follow the below link for installation**
+    For Windows follow the below link for installation
     https://www.guru99.com/install-eclipse-java.html
 
 ## 2. Login Details
