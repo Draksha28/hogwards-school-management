@@ -1,5 +1,16 @@
-# hogwards-school-management
+# Hogwards-school-management
 
+
+
+## 1. Steps for Installation 
+
+
+## 2. Steps for Executing 
+
+### Login Details
+
+
+## 3. ScreenShots of Application
 
 ![image](https://user-images.githubusercontent.com/63598426/112728477-7d289f00-8f4d-11eb-875c-21c3d810d537.png)
 
